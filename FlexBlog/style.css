@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Nunito", Arial, Helvetica, sans-serif;
+    /* color: #222222; */
+    /* Respeita todo o elemento  */
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
+/* SUPERINFO */
+.superinfo-bg{
+    background: #122ab2;
+}
+
+.superinfo{
+    color:beige;
+}
+
